@@ -4,9 +4,6 @@
 
 [![codewars](https://www.codewars.com/users/Renar%20Reineke/badges/large)](https://www.codewars.com/users/Renar%20Reineke)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
 
 <!--
 **RenarReineke/RenarReineke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
