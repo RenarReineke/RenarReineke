@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Dmitrii 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>, I'm Dmitrii 
 <h3 align="center">Frontend developer</h3>
 
 [![codewars](https://www.codewars.com/users/Renar%20Reineke/badges/large)](https://www.codewars.com/users/Renar%20Reineke)
