@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, Дмитрий </h1>
+<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Дмитрий </h1>
 <h3 align="center">Fullstack PHP/JS</h3>
 
 [![codewars](https://www.codewars.com/users/RenarReineke/badges/large)](https://www.codewars.com/users/RenarReineke)
